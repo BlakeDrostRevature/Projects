@@ -25,7 +25,9 @@ This is a ASP.NET Core API project utilizing Entity Framework Core, a SQL Databa
 - Removing an item from the store's stock when purchased
 - Adding styling to make the pages appear more professional
 ### Getting Started
-- 
+- Clone the Project_1 Project and all dependencies
+- Must create a database following the DBContext specifications
+- DB connection string must be changed to the location you have created the above database
 #### License
 MIT License
 ## Contributors
