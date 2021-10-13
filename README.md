@@ -30,5 +30,3 @@ This is a ASP.NET Core API project utilizing Entity Framework Core, a SQL Databa
 - DB connection string must be changed to the location you have created the above database
 #### License
 MIT License
-## Contributors
-- Blake Drost
