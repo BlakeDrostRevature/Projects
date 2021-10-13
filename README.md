@@ -12,7 +12,7 @@ This is a ASP.NET Core API project utilizing Entity Framework Core, a SQL Databa
 - SQL
 - XML
 - Defect Logging
-### Features
+### Implemented Features
 - User can Login or Register using Username and Password
 - User can see all previously made orders from each store
 - User can select a store to purchase items
@@ -20,6 +20,12 @@ This is a ASP.NET Core API project utilizing Entity Framework Core, a SQL Databa
 - Product purchasing is limited to a maximum of 5 or less if availability is less than 5
 - User can place an order
 - User can see all of their previous purchases
+### Future Features
+- Adding an item to store's stock
+- Removing an item from the store's stock when purchased
+- Adding styling to make the pages appear more professional
+### Getting Started
+- 
 #### License
 MIT License
 ## Contributors
