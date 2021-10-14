@@ -20,8 +20,10 @@ List of features ready and TODOs for future development
   - Store will display all items available for purchase
   - Product purchasing is limited to a maximum of 5 or less if availability is less than 5
   - User can place an order
-  - User can see all of their previous purchases    
+  - User can see all of their previous purchases  
+
 To-do list:  
+
   - Adding an item to store's stock
   - Removing an item from the store's stock when purchased
   - Adding styling to make the pages appear more professional
