@@ -14,20 +14,20 @@ This is a ASP.NET Core API project utilizing Entity Framework Core, a SQL Databa
 - Defect Logging
 ### Features
 List of features ready and TODOs for future development
-- User can Login or Register using Username and Password
-- User can see all previously made orders from each store
-- User can select a store to purchase items
-- Store will display all items available for purchase
-- Product purchasing is limited to a maximum of 5 or less if availability is less than 5
-- User can place an order
-- User can see all of their previous purchases< br/>
+  - User can Login or Register using Username and Password
+  - User can see all previously made orders from each store
+  - User can select a store to purchase items
+  - Store will display all items available for purchase
+  - Product purchasing is limited to a maximum of 5 or less if availability is less than 5
+  - User can place an order
+  - User can see all of their previous purchases< br/>
 To-do list:
-- Adding an item to store's stock
-- Removing an item from the store's stock when purchased
-- Adding styling to make the pages appear more professional
+  - Adding an item to store's stock
+  - Removing an item from the store's stock when purchased
+  - Adding styling to make the pages appear more professional
 ### Getting Started
-- Clone the Project_1 Project and all dependencies
-- Must create a database following the DBContext specifications
-- DB connection string must be changed to the location you have created the above database
+```bash
+git clone https://github.com/BlakeDrostRevature/Projects.git
+```
 #### License
 MIT License
