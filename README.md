@@ -32,4 +32,4 @@ To-do list:
 git clone https://github.com/BlakeDrostRevature/Projects.git
 ```
 #### License
-MIT License
+This project uses the following license: MIT License.
